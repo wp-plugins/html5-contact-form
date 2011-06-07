@@ -7,6 +7,7 @@ Tested up to: 2.8.4
 Stable tag: 0.9
 
 HTML5 Contact Form is a basic contact form with css styling, form validation, error feedback and captcha spam check.
+Demo Link: http://www.csscody.com/freebies/html5-contact-form-plugin-for-wordpress/1688/
 
 == Description ==
 
@@ -37,6 +38,7 @@ If you create your own language file, please consider posting it as comments her
 = How can I add Contact Form to my website? =
 
 1. You need to put a [html5_form] shortcode into your page or some post.
+Demo Link: http://www.csscody.com/freebies/html5-contact-form-plugin-for-wordpress/1688/
 
 == Screenshots ==
 
