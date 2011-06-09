@@ -1,14 +1,12 @@
 <?php
-
-/**
-* Plugin Name: HTML5 CONTACT FORM
-* Plugin URI: http://www.csscody.com
-* Description: HTML5 Contact Form is a basic contact form with css styling, form validation, error feedback and captcha spam check.
-* Author: John (Jeet)
-* Author URI: http://www.csscody.com
-* Version: 2.0
+/*
+Plugin Name: HTML5 CONTACT FORM
+Plugin URI: http://www.csscody.com/freebies/html5-contact-form-plugin-for-wordpress/1688/
+Description: HTML5 Contact Form is a basic contact form with css styling, form validation, error feedback and captcha spam check.
+Version: Version: 2.0
+Author: John (Jeet)
+Author URI: http://csscody.com
 */
-
 $plugin_dir =  ABSPATH . 'wp-content/plugins/html5form/';
 if(file_exists($plugin_dir.WPLANG.'.php')) include_once($plugin_dir.WPLANG.'.php');
 if (!session_id()) session_start();

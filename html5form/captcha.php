@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 
 $num_letters = intval($_GET[n]);
