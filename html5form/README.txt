@@ -1,6 +1,6 @@
 === HTML5 Contact Form ===
 Contributors: Jhon (Jeet)
-Tags: HTML5 Form, contact form, captcha
+Tags: HTML5 Form, contact form, captcha form, html form,css form
 Donate link: http://csscody.com/
 Requires at least: 2.0
 Tested up to: 2.8.4
@@ -60,8 +60,11 @@ Demo Link: http://www.csscody.com/freebies/html5-contact-form-plugin-for-wordpre
 
 == Changelog ==
 
+= 1.03 =
+*valid header issue - fIxed.
+
 = 1.02 =
-*Display "thanks" message bug is fixed. Radio buttons automatic switching added (for settings page) after setting mouse cursor (clicking) into a text field.
+*Display "thanks" message bug is fixed. 
 
 = 1.01 =
 * html5 Contact form position bug is fixed.
@@ -72,10 +75,9 @@ Demo Link: http://www.csscody.com/freebies/html5-contact-form-plugin-for-wordpre
 == Upgrade Notice ==
 
 = 1.02 =
-Display "thanks" message bug is fixed. Radio buttons automatic switching added (for settings page) after setting mouse cursor (clicking) into a text field. Upgrade immediately.
-
+Display "thanks" message bug is fixed.
 = 1.01 =
-Contact form position bug is fixed. Upgrade immediately.
+Contact form bug is fixed. Upgrade immediately.
 
 = 1.00 =
 Upgrade immediately.
